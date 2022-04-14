@@ -24,7 +24,7 @@
   
   ```pip install mysql```
  
-* Create a database named "amazon_scrape" with table named "scraped_data".
+* Create a database named "amazon_scrap" with table named "scraped_data".
 * Run the Script with command 
 
-  ```python s.py```
+  ```python amazon_scrap.py```
